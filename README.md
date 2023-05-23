@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📖 About Me:
+- Data Scientist with a passion for how data is changing our world
+- Entrepreneur - Currently working on AlgoSeek, a FinTech Start-up 
+- Quant Developer - Building out algorithmic trading strategies on the side
+
+## 🪛 Tools and Libraries
